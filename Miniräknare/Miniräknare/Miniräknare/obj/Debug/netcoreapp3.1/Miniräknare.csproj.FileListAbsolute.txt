@@ -1,0 +1,14 @@
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\bin\Debug\netcoreapp3.1\Miniräknare.exe
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\bin\Debug\netcoreapp3.1\Miniräknare.deps.json
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\bin\Debug\netcoreapp3.1\Miniräknare.runtimeconfig.json
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\bin\Debug\netcoreapp3.1\Miniräknare.runtimeconfig.dev.json
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\bin\Debug\netcoreapp3.1\Miniräknare.dll
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\bin\Debug\netcoreapp3.1\Miniräknare.pdb
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.csproj.AssemblyReference.cache
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.GeneratedMSBuildEditorConfig.editorconfig
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.AssemblyInfoInputs.cache
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.AssemblyInfo.cs
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.csproj.CoreCompileInputs.cache
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.dll
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.pdb
+D:\TIATIL00S\TIATIL00S\Miniräknare\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.genruntimeconfig.cache
