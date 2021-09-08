@@ -26,6 +26,8 @@ namespace IfElseAndLoop
                 Console.WriteLine("Yes vi har lektion");
             }
 
+            Console.WriteLine("Vill du svara igen?");
+            svaraigen = double.Parse(Console.ReadLine());
 
         }
     }
